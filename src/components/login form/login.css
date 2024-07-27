@@ -1,0 +1,70 @@
+.logincontainer {
+    max-width: 30%;
+    background-color: #F7F8F8;
+    border-radius: 15px;
+    overflow: hidden;
+    margin-top: 7%;
+    height: 445px;
+    width: 30%;
+    margin-left: 32%;
+  
+  }
+  
+.head > span{
+  text-align: center;
+}
+.loginimg {
+  width: 100px;
+  justify-content: center;
+  display: flex;
+  margin-top: 33px;
+  
+}
+.login-input {
+  margin-bottom: 10px;
+  padding: 8px;
+  width: 97%;
+  margin-top: 25px;
+  background-color: #dddbdb;
+  color: black;
+  margin-left: 6px;
+}
+.img-div{
+  display:flex;
+  justify-content: center;
+}
+.googlebtn{
+  display:flex;
+  justify-content: center;
+  margin-top: 35px;
+}
+
+.custom-button {
+  max-width: 420px;
+  width: 90%;
+  justify-content: center;
+  display: flex;
+  padding: 0.5rem 1.4rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 700;
+  text-align: center;
+  text-transform: uppercase;
+  vertical-align: middle;
+  align-items: center;
+  border-radius: 0.5rem;
+  border: 5px solid #002F34;
+  gap: 0.75rem;
+  color: rgb(65, 63, 63);
+  background-color: #fff;
+  cursor: pointer;
+  transition: all .6s ease;
+}
+
+.custom-button svg {
+  height: 24px;
+}
+
+.custom-button:hover {
+  transform: scale(1.02);
+}

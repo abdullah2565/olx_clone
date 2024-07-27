@@ -1,0 +1,30 @@
+.container{
+  max-width: 900px !important;
+  margin-top: 15px;
+  padding-left: 1px;
+}
+.chat{
+  border: 2px solid #002F34;
+}
+.location-class {
+  font-size: 25px;
+  margin-left: 1px;
+}
+ .location-div{
+  display: flex;
+} *
+
+.njk{
+  font-size: 25PX;
+}
+.ImgDiv{
+  height: 70vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.d-block {
+  display: block!important;
+  width: 92%;
+  height: 62vh;
+}
